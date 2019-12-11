@@ -1,0 +1,64 @@
+
+
+body {font-family: 'Open Sans', sans-serif;
+font-size: 1.2em;
+margin: 0%;
+text-align: center;
+color:#009ca9;
+}
+
+body {
+  background-image: url("../billeder/cfv-baggrund.png");
+  background-repeat: no-repeat;
+background-size:cover;
+  background-attachment: fixed;
+}
+
+.logo{float: left;
+width: 20%;
+position: fixed;
+overflow: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+header {overflow:hidden;
+  text-align: center;
+
+}
+
+h1 {text-align: center;
+display:
+font-weight: 200;
+font-size: 3.5em;
+margin: 0%;}
+
+h2 {margin: 3%;
+font-size: 2em;}
+p{
+  margin:2%;
+  font-size: 1em;
+}
+
+a {text-decoration: none;
+color: white;
+}
+#linje {margin-bottom: 5%;}
+
+.klik {
+background-color:  #009ca9;
+padding: 15px;
+padding-left: 35px;
+padding-right: 35px;
+color:white;
+}
+
+  .klik:hover {
+  background-color: #59909b;
+  padding: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  color:white;
+}
